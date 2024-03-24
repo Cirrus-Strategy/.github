@@ -1,3 +1,3 @@
 # Cirrus Strategy
 
-Social impact reimagined. Learn more at [cirrusstrategy.github.io](https://cirrusstrategy.org)
+Social impact reimagined. Learn more at [cirrusstrategy.org](https://cirrusstrategy.org)
